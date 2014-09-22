@@ -1,2 +1,5 @@
+[local_pic]
+localhost
+
 [builder]
 vagrant ansible_ssh_user=vagrant ansible_ssh_port=2222
